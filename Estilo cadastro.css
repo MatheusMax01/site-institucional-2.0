@@ -1,0 +1,46 @@
+.caixa_cadastro{
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    color: rgb(204, 19, 19);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+}
+.caixa_cadastro h1{
+font-size: 30px;
+}
+.caixa_cadastro .cadastro{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+.caixa_cadastro .cadastro button{
+    margin-top: 10px;
+    background: rgb(204, 19, 19);
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 120px;
+    align-self: center;
+}
+.caixa_cadastro .cadastro button:hover{
+    margin-top: 10px;
+    background: rgb(165, 25, 165);
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 120px;
+    align-self: center;
+}
+.caixa_cadastro .cadastro input{
+    padding: 10px 15px;
+    text-align: center;
+    border: solid 2px #32b9cd;
+    border-radius: 10px;
+}
