@@ -201,6 +201,14 @@ button {
   font-size: 20px;
   font-weight: 600 !important;
 }
+.formulario .cpf_campo {
+  font-size: 20px;
+  font-weight: 600 !important;
+}
+.formulario .nasc_campo {
+  font-size: 20px;
+  font-weight: 600 !important;
+}
 
 .formulario {
   display: flex;
